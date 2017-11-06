@@ -8,6 +8,6 @@
     <title>Projet MVC</title>
 </head>
 <body>
-    
+    <?php inlude("./views/header.view.php"); ?>
 </body>
 </html>
