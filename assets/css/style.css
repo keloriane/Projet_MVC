@@ -34,7 +34,11 @@ h1 {
 }
 h1 img { height: 100%; }
 nav > * { display: inline-block; }
-nav ul li { display: inline-block; }
+nav ul li { 
+    display: inline-block; 
+    height: 26px;
+    margin: 17px 0;
+}
 nav ul li > a {
     border: 1px solid #454545;
     border-radius: 3px; 
@@ -44,4 +48,7 @@ nav ul li > a {
     padding: 3px 5px;
     margin: 0 5px;
 }
-.header_tel { float: right; }
+.header_tel { 
+    float: right; 
+    margin: 10px;
+}
