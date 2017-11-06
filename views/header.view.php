@@ -1,5 +1,5 @@
 <header>
-   <div id="description">
+   <div class="header_description">
        Antiquités &bull; Décoration &bull; Agencement
    </div>
     <nav>
