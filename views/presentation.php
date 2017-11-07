@@ -21,7 +21,7 @@
     <h3>Services</h3>
     <p>Location de meubles et accessoires pour tournage.</p>
     <h3>Livraison</h3>
-    <p>Livraison dans toute l’Europe & le monde.</p>
+    <p>Livraison dans toute l’Europe &amp; le monde.</p>
     <h3>ilsont fait confiance</h3>
     <p><a href="#">ZAHIA</a>: Anvers , Gand , Brugge , Hasselt  ) Bijoux .</p>
     <p><a href="#">VINOPRES</a>: ( Bruxelles ) Publications sur le monde du vin .</p>
