@@ -11,5 +11,6 @@ require  "./controller/router.php";
 <body>
     <?php include("./views/header.php"); ?>
     
+    <?php include "./views/footer.php"; ?>
 </body>
 </html>
