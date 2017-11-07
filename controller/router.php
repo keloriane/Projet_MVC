@@ -8,7 +8,8 @@ $content = "";
 
 switch ($page) {
     case 'contact': $content="./views/contact.php"; break;
-    case 'presentation': default: $content="./views/presentation.php"; break;
+    case 'presentation': $content="./views/presentation.php"; break;
+    default: $content="./views/error404.php"; break;
 }
 
 /*if (file_exists($view)) {
