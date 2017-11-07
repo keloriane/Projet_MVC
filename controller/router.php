@@ -1,6 +1,8 @@
 <?php
-
-$get = addslashes($_GET["page"]);
+$get ="";
+if (isset($_GET["page"])) {
+    $get = addslashes($_GET["page"]);
+}
 // $get = explode("/", $_SERVER["REQUEST_URI"]);
 $page = $get != "" ? $get : "presentation";
 $view = "./views/" . $page . ".php";
