@@ -29,7 +29,7 @@
         
         <label>Lieu de départ : </label>
         <input type="text" name="lieu" id="lieu">
-        <input type="submit" name="envoyer" value="itinéraire">
+        <input id="placesend" type="submit" name="envoyer" value="itinéraire">
         
     </form>
     
