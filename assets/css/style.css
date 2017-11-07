@@ -1,5 +1,9 @@
 body {
     margin: 0;
+    font-family: Lato;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans Condensed";
 }
 header {
     position: fixed;
@@ -34,10 +38,14 @@ h1 {
 }
 h1 img { height: 100%; }
 nav > * { display: inline-block; }
+nav ul { 
+    height: 80px; 
+    margin: 0;
+}
 nav ul li { 
     display: inline-block; 
     height: 26px;
-    margin: 17px 0;
+    margin: 27px 0;
 }
 nav ul li > a {
     border: 1px solid #454545;
@@ -47,6 +55,11 @@ nav ul li > a {
     text-decoration: none;
     padding: 3px 5px;
     margin: 0 5px;
+    transition: .5s ease;
+}
+nav ul li > a:hover {
+    background: white;
+    color: #454545;
 }
 .header_tel { 
     float: right; 
