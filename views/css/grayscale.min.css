@@ -388,6 +388,10 @@ h2.alltitle img { height: 100%; }
 .intro-body img.prez_profile {
     max-width: 50px;
 }
+.contact-section {
+    background: white;
+    color: black
+}
 iframe {
     max-width: 100%;
 }

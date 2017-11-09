@@ -13,7 +13,7 @@
     </div>
 </header>
 
- <section class="content-section text-center">
+ <section class="content-section text-center contact-section">
   
    <div class="row">
     <div class="col-lg-8 mx-auto">
