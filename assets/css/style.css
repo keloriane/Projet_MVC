@@ -1,4 +1,4 @@
-body{
+/*body{
     margin: 0;
     font-family: Lato, sans-serif;
     font-size: 14px;
@@ -20,8 +20,8 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: "Open Sans Condensed";
-}
-header {
+}*/
+.myheader {
     position: fixed;
     display: block;
     top: 0;
@@ -38,7 +38,7 @@ header {
     display: inline-block;
     line-height: 40px;
 }
-nav { height: 80px; }
+.mynav { height: 80px; }
 .lang_switch { 
     float: right; 
     height: 20px;
@@ -47,23 +47,23 @@ nav { height: 80px; }
     background: #564e44;
     color: white;
 }
-h1 { 
+h2.alltitle { 
     float: left; 
     margin: 0;
     height: 100%;
 }
-h1 img { height: 100%; }
-nav > * { display: inline-block; }
-nav ul { 
+h2.alltitle img { height: 100%; }
+.mynav > * { display: inline-block; }
+.mynav .myul { 
     height: 80px; 
     margin: 0;
 }
-nav ul li { 
+.mynav .myul li { 
     display: inline-block; 
     height: 26px;
     margin: 27px 0;
 }
-nav ul li > a {
+.mynav .myul li > a {
     border: 1px solid #454545;
     border-radius: 3px; 
     text-transform: uppercase;
@@ -73,7 +73,7 @@ nav ul li > a {
     margin: 0 5px;
     transition: .5s ease;
 }
-nav ul li > a:hover {
+.mynav .myul li > a:hover {
     background: white;
     color: #454545;
 }
@@ -81,7 +81,7 @@ nav ul li > a:hover {
     float: right; 
     margin: 10px;
 }
-#titre{
+/*#titre{
     
     text-align: center;
 }
@@ -90,7 +90,7 @@ nav ul li > a:hover {
     margin: 0 auto;
     margin-bottom: 10px;
 }
-#formulaire{
+#form.myulaire{
     text-align: center;
 }
 .prez_profil{
@@ -178,4 +178,4 @@ a.prez_link::after{
   content: " ➹";
     font-size: 130%;
     vertical-align: baseline;
-}
+}*/

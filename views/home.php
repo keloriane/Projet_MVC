@@ -1,7 +1,7 @@
 
 
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+<!--<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
@@ -24,7 +24,7 @@
             </ul>
         </div>
     </div>
-</nav>
+</nav>-->
 
 <!-- Intro Header -->
 <header class="masthead">
@@ -32,9 +32,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <h1 class="brand-heading">Grayscale</h1>
-                    <p class="intro-text">A free, responsive, one page Bootstrap theme.
-                        <br>Created by Start Bootstrap.</p>
+                    <h1 class="brand-heading">Didier Motte</h1>
+                    <p class="intro-text">"L'ennui naquit un jour de l'uniformité"</p>
                     <a href="#about" class="btn btn-circle js-scroll-trigger">
                         <i class="fa fa-angle-double-down animated"></i>
                     </a>
@@ -49,37 +48,28 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto">
-                <h2>About Grayscale</h2>
-                <p>Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply
-                    download the template on
-                    <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is
-                    open source, and you can use it for any purpose, personal or commercial.</p>
-                <p>This theme features stock photos by
-                    <a href="http://gratisography.com/">Gratisography</a>
-                    along with a custom Google Maps skin courtesy of
-                    <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p>
-                <p>Grayscale includes full HTML, CSS, and custom JavaScript files along with SASS and LESS files for
-                    easy customization!</p>
+                <h2>À propos de moi</h2>
+                <p>Je fais essentiellement des anciens meubles de commerce, des intérieurs complets de vieux magasins, bistrots, pharmacies…</p>
+                <p>Toujours à la recherche de l’extra-ordinaire, de l’insolite, Didier Motte fait partie de ces quelques connaisseurs savent percevoir l’histoire des objets anciens.</p>
+                <a href="./?page=presentation" class="btn btn-default btn-lg">En savoir plus</a>
             </div>
         </div>
     </div>
 </section>
 
-</section>
 <!-- Download Section -->
 <section id="download" class="download-section content-section text-center">
     <div class="container">
         <div class="col-lg-8 mx-auto">
-            <h2>Download Grayscale</h2>
-            <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
-            <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit
-                Download Page</a>
+            <h2>Contact</h2>
+            <p>Si vous êtes dans le coin, vous pouvez venir jeter un coup d’oeil.</p>
+            <a href="./?page=contact" class="btn btn-default btn-lg">Contactez-moi</a>
         </div>
     </div>
 </section>
 
 <!-- Contact Section -->
-<section id="contact" class="content-section text-center">
+<!--<section id="contact" class="content-section text-center">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto">
@@ -111,17 +101,17 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 
 <!-- Map Section -->
-<div id="map"></div>
+<!--<div id="map"></div>-->
 
 <!-- Footer -->
-<footer>
+<!--<footer>
     <div class="container text-center">
         <p>Copyright &copy; Your Website 2017</p>
     </div>
-</footer>
+</footer>-->
 
 
 

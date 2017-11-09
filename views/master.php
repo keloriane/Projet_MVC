@@ -18,9 +18,9 @@
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
           type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
-    <!--<link rel="stylesheet" href="./assets/css/style.css" />-->
     <!-- Custom styles for this template -->
     <link href="./views/css/grayscale.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="./assets/css/style.css" />-->
 </head>
 
 <body id="page-top">
