@@ -313,7 +313,8 @@ body {
 header.smallermasthead {
     color: black;
     background: url("../img/NY_docks_o.jpg") no-repeat top center fixed;
-    background-color: white
+    background-color: white;
+    background-size: cover;
 }
 .myheader {
     position: fixed;
@@ -370,7 +371,7 @@ h2.alltitle img { height: 100%; }
     transition: .5s ease
 }
 .mynav .myul li > a:hover {
-    background: white;
+        background: white;
     color: #454545
 }
 .header_tel { 
