@@ -27,12 +27,9 @@
         <div class="description ml-auto mx-auto">
           
         <h3 class="prez_title">Les meubles ont une histoire, authentique.</h3>
-        <div class="bloc-txt">
+        
           <p>Toujours à la recherche de l’extra-ordinaire, de l’insolite, fasciné par la « petite » histoire du monde, celle des métiers d’autrefois, Didier Motte fait partie de ces quelques connaisseurs, brocanteurs ou décorateurs qui, à travers leur regard et leur toucher, savent percevoir l’histoire des objets anciens pour leur donner une nouvelle légitimité esthétique et fonctionnelle.</p>
-        </div>
-        <div class="inner-txt">
-          <em class="prez_em">Je fais essentiellement des anciens meubles de commerce, des intérieurs complets de vieux magasins, bistrots, pharmacies… J’ai un entrepôt à Luttre, à Nivelles et à Haerelbeek . Si vous êtes dans le coin, vous pouvez venir jeter un coup d’oeil ( appelez-moi auparavant au 0495 205 934 ).  À bientôt! – Didier.</em>
-        </div>
+          <p><em class="prez_em">Je fais essentiellement des anciens meubles de commerce, des intérieurs complets de vieux magasins, bistrots, pharmacies… J’ai un entrepôt à Luttre, à Nivelles et à Haerelbeek . Si vous êtes dans le coin, vous pouvez venir jeter un coup d’oeil ( appelez-moi auparavant au 0495 205 934 ).  À bientôt! – Didier.</em></p>
       </div>
       <div class="prez_content">
         <h3 class="prez_title">Services</h3>
