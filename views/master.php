@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Grayscale - Start Bootstrap Theme</title>
+    <title>Antiquités, Décorations, Belgique &mdash; Didier Motte &#8211; Antiquités, Décoration</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./views/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

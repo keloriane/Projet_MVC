@@ -6,7 +6,7 @@ if (isset($_GET["page"])) {
 // $get = explode("/", $_SERVER["REQUEST_URI"]);
 $page = $get != "" ? $get : "home";
 $view = "./views/" . $page . ".php";
-$content = "";
+$content="./views/home.php"; 
 
 switch ($page) {
     case 'contact': $content="./views/contact.php"; break;

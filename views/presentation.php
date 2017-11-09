@@ -3,11 +3,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <h1 class="brand-heading">Présentation</h1>
+                    <h1 class="brand-heading">À propos</h1>
                     <h2>DIDIER MOTTE</h2>
 
 
-    <img class="prez_profil" src="assets/img/didier-grosplan.png" alt=""><br/>
+    <img class="prez_profil" src="assets/img/didier-grosplan.png" alt="" style="width: 50%;"><br/>
                     <a href="#myprez" class="btn btn-circle js-scroll-trigger">
                         <i class="fa fa-angle-double-down animated"></i>
                     </a>
@@ -39,7 +39,7 @@
         <p>Location de meubles et accessoires pour tournage.</p>
         <h3 class="prez_title">Livraison</h3>
         <p>Livraison dans toute l’Europe &amp; le monde.</p>
-        <h3 class="prez_title">ilsont fait confiance</h3>
+        <h3 class="prez_title">ils ont fait confiance</h3>
         <p><a class="prez_link" href="#">ZAHIA</a>: Anvers , Gand , Brugge , Hasselt  ) Bijoux .</p>
         <p><a class="prez_link" href="#">VINOPRES</a>: ( Bruxelles ) Publications sur le monde du vin .</p>
         <p><a class="prez_link" href="#">LE RELAIS DU TRIPORTEUR</a>: ( Bruxelles ) Epicerie et restaurant Bio .</p>

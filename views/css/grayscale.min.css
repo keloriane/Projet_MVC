@@ -142,7 +142,9 @@ a:focus, a:hover {
 }
 
 .masthead .intro-body .brand-heading {
-    font-size: 50px
+    font-size: 50px;
+    padding-top: 100px;
+    color: #42dca3
 }
 
 .masthead .intro-body .intro-text {
@@ -188,7 +190,8 @@ a:focus, a:hover {
 
 .content-section {
     padding-top: 150px;
-    padding-bottom: 150px
+    padding-bottom: 150px;
+    background: black
 }
 
 .download-section {
@@ -301,6 +304,12 @@ body {
 }
 
 /* My CSS */
+#mainNav {
+    background: rgba(0,0,0,.6);
+}
+.masthead h2 {
+    color: #42dca3
+}
 header.smallermasthead {
     color: black;
     background: url("../img/NY_docks_o.jpg") no-repeat top center fixed;
@@ -314,7 +323,8 @@ header.smallermasthead {
     width: 100%;
     background: #272727;
     color: #FFF;
-    z-index: 100
+    z-index: 100;
+    font-family: Cabin, 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 .header_sup {
     height: 40px;
@@ -367,8 +377,25 @@ h2.alltitle img { height: 100%; }
     float: right; 
     margin: 10px
 }
+#myprez {
+    background: white;
+    color: black
+}
+.prez_content {
+    margin-top: 35px;
+}
+.intro-body img.prez_profile {
+    max-width: 50px;
+}
+iframe {
+    max-width: 100%;
+}
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
 footer {
     margin-top: 15px;
     text-align: center;
-    background: black
+    background: grey
 }
