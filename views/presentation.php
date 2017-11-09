@@ -23,7 +23,7 @@
 <section id="myprez" class="content-section text-center">
   
    <div class="row">
-    <div class="col-lg-8 mx-auto">
+    <div class="col-lg-6 mx-auto">
         <div class="description ml-auto mx-auto">
           
         <h3 class="prez_title">Les meubles ont une histoire, authentique.</h3>
