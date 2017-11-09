@@ -392,6 +392,15 @@ h2.alltitle img { height: 100%; }
     background: white;
     color: black
 }
+.mybtn {
+    background: black;
+    color: white;
+    border: 0;
+    border-radius: 4px
+}
+button:hover {
+    cursor: pointer
+}
 iframe {
     max-width: 100%;
 }
