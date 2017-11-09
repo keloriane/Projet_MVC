@@ -1,4 +1,23 @@
+<header class="masthead smallermasthead">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h1 class="brand-heading">Contact</h1>
+                    <a href="#contact" class="btn btn-circle js-scroll-trigger">
+                        <i class="fa fa-angle-double-down animated"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 
+ <section class="content-section text-center">
+  
+   <div class="row">
+    <div class="col-lg-8 mx-auto">
+        <div class="description ml-auto mx-auto">
 
 
 <head>
@@ -10,9 +29,6 @@
 <h1 id="titre">Contact</h1>
 
 <div id="contact"> 
-
-
-    <h2>Le Magasin</h2>
     <p>Le magasin est ouvert le samedi matin de 10h00 à 12h30 ou sur rendez-vous.</p>
     <button>Didier Motte</button>
     <button>dmotte@skynet.be</button>
@@ -34,3 +50,6 @@
     </form>
     
 </div>
+
+
+        </div></div></div></section>

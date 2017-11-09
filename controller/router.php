@@ -4,13 +4,14 @@ if (isset($_GET["page"])) {
     $get = addslashes($_GET["page"]);
 }
 // $get = explode("/", $_SERVER["REQUEST_URI"]);
-$page = $get != "" ? $get : "presentation";
+$page = $get != "" ? $get : "home";
 $view = "./views/" . $page . ".php";
-$content = "";
+$content="./views/home.php"; 
 
 switch ($page) {
     case 'contact': $content="./views/contact.php"; break;
     case 'presentation': $content="./views/presentation.php"; break;
+    case 'home': $content="./views/home.php"; break;
     default: $content="./views/error404.php"; break;
 }
 
