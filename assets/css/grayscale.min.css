@@ -9,7 +9,7 @@ body {
     width: 100%;
     height: 100%;
     color: #fff;
-    background-color: grey
+    background-color: #242424;
 }
 
 html {
@@ -43,12 +43,14 @@ a {
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
-    color: #42dca3
+    color: #42dca3;
+    font-weight:800;
+
 }
 
 a:focus, a:hover {
     text-decoration: none;
-    color: #1d9b6c
+    color: #1d9b6c;
 }
 
 #mainNav {
@@ -337,7 +339,7 @@ header.smallermasthead {
 }
 .mynav { height: 80px; }
 .lang_switch { 
-    float: right; 
+    float: right;
     height: 20px;
     margin: 10px;
     border-radius: 3px;
@@ -378,6 +380,11 @@ h2.alltitle img { height: 100%; }
     float: right; 
     margin: 10px
 }
+
+.prez_title{
+    margin-bottom:25px;
+}
+
 #myprez {
     background: white;
     color: black
@@ -390,8 +397,13 @@ h2.alltitle img { height: 100%; }
 }
 .contact-section {
     background: white;
-    color: black
+    color: black;
 }
+
+#formulaire form{
+    margin-top:25px;
+}
+
 .mybtn {
     background: black;
     color: white;
@@ -411,5 +423,5 @@ iframe {
 footer {
     margin-top: 15px;
     text-align: center;
-    background: grey
+    background: #242424;
 }
