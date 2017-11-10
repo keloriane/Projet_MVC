@@ -17,9 +17,6 @@
     </div>
 </header>
 
-
-
-
 <section id="myprez" class="content-section text-center">
   
    <div class="row">

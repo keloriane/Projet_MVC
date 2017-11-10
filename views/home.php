@@ -32,7 +32,7 @@
 
 <section id="download" class="download-section content-section text-center">
     <div class="container">
-        <div class="col-lg-8 mx-auto">
+        <div class="col-lg-8 mx-auto contact">
             <h2>Contact</h2>
             <p>Si vous êtes dans le coin, vous pouvez venir jeter un coup d’oeil.</p>
             <a href="./?page=contact" class="btn btn-default btn-lg">Contactez-moi</a>

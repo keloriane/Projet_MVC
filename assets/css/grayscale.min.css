@@ -389,6 +389,11 @@ h2.alltitle img { height: 100%; }
     background: white;
     color: black
 }
+
+#download .contact{
+    padding:50px;
+}
+
 .prez_content {
     margin-top: 35px;
 }
